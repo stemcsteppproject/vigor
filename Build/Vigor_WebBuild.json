@@ -1,0 +1,13 @@
+{
+"companyName": "UtDallas",
+"productName": "VIGOR",
+"dataUrl": "Vigor_WebBuild.data.unityweb",
+"asmCodeUrl": "Vigor_WebBuild.asm.code.unityweb",
+"asmMemoryUrl": "Vigor_WebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "Vigor_WebBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
